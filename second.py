@@ -1,0 +1,2 @@
+def mysecondfunc():
+    print("hello")
